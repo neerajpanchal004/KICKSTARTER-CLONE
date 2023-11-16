@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+.heading :hover{
+    color: green;
+}
+.para :hover{
+    color: green;
+}
+main{
+    margin: 40px;
+}
+.heading{
+    padding: 15px;
+    position: s;
+    /* width: 100%; */
+    /* top: 10px; */
+    /* transition: 0.5s; */
+}
+.para>p{
+    padding: 5px;
+    /* width: 250px; */
+    font-size: xx-large;
+}
