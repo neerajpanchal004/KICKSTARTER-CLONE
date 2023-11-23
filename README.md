@@ -28,11 +28,14 @@ I made a
 <img width="931" alt="Screenshot 2023-11-23 153852" src="https://github.com/neerajpanchal004/KICKSTARTER-CLONE/assets/141296714/ec21fe6b-c6bd-43b5-aac1-b7e9b2dcce49">
 
 
-##It is my project page
+
+
+
+
+It is my project page
 
 <img width="930" alt="Screenshot 2023-11-23 153745" src="https://github.com/neerajpanchal004/KICKSTARTER-CLONE/assets/141296714/2ca0cf1d-c5d3-408c-a5f3-477443fdbfe8">
 
-<img width="960" alt="Screenshot 2023-11-07 204457" src="https://github.com/neerajpanchal004/KICKSTARTER-CLONE/assets/141296714/ca72e91a-8dea-439e-b73d-57c13f823fb1">
 
 
 
