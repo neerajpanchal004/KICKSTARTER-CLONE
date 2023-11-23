@@ -1,14 +1,14 @@
 # KICKSTARTER-CLONE
-##authorname : Neeraj panchal
+## Author-name : Neeraj panchal
 
 I made this project using html css and javascript 
 its a clone website 
 I made a 
-=> SIGN-UP PAGE
-=> LOGIN PAGE
-=>HOME PAGE
-=> PROJECT PAGE
-=> AND DISCOVER PAGE
+SIGN-UP PAGE,
+LOGIN PAGE,
+HOME PAGE,
+PROJECT PAGE,
+AND DISCOVER PAGE
 
 
 
