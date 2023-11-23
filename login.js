@@ -9,7 +9,7 @@ let loginvalue = function(){
         // let auth = 1;
         // localStorage.setItem("verify",auth)
 
-        window.location.href="home.html"
+        window.location.href="index.html"
     }
     else{
         auth = 5;
